@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3c63cdd3-9b41-4541-9aee-69279762c699" name="Changes" comment="Villain Analysis">
+      <change afterPath="$PROJECT_DIR$/../HW3_Dashboard/data/songs_normalize.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3_Dashboard/music_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3_Dashboard/music_api2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3_Dashboard/music_api3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3_Dashboard/music_explorer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3_Dashboard/music_explorer1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3_Dashboard/music_explorer2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3_Dashboard/music_explorer3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3_Dashboard/musicapi1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW3_Dashboard/sankey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW4_ds3500/Plot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW4_ds3500/burger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW4_ds3500/drv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_3_Claude/AI_diagram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HW_5_ds3500/alife.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drv/dice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../drv/drv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ds3500_hw6_2/test/test1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ds3500_hw6_2/test/test2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ds3500_hw6_2/test/test3.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="36J9yiDtw2eGwlXJMJOFLKE0uVF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.dashboard.executor": "Run",
+    "Python.framework.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.parser.executor": "Run",
+    "Python.villain_api.executor": "Run",
+    "Python.villian_dialogue_parser.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/elizabethc/Documents/neu/ds3500_priv/ds3500_nlp_hw",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/monologues" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c63cdd3-9b41-4541-9aee-69279762c699" name="Changes" comment="" />
+      <created>1764714064160</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1764714064160</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Villain Analysis">
+      <option name="closed" value="true" />
+      <created>1774556057946</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774556057946</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Villain Analysis" />
+    <option name="LAST_COMMIT_MESSAGE" value="Villain Analysis" />
+  </component>
+</project>
